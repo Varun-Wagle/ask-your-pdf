@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 #Force install of PyPDF2
 PyPDF2==3.0.1
 
-=======
-PyPDF2==3.0.1
->>>>>>> d07118e4bd5aefd3593f0045bf3c559fe07e9e25
 altair==5.5.0
 annotated-types==0.7.0
 anyio==4.9.0
