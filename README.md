@@ -67,3 +67,14 @@ ask-your-pdf/
 ├── .env                   # Contains your GROQ API key (excluded from Git)
 ├── .gitignore             # Prevents committing sensitive/unnecessary files
 └── README.md              # You're reading it!
+
+📄 License
+This project is licensed under the MIT License.
+
+🤝 Contributions
+Contributions, issues and feature requests are welcome!
+Feel free to ⭐️ the repo and open an issue.
+
+✨ Author
+Varun Wagle
+GitHub
