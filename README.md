@@ -38,7 +38,7 @@ pip install -r requirements.txt
 GROQ_API_KEY=your_groq_api_key_here
  
 # ▶️ Run the App
-streamlit run app1.py
+streamlit run app.py
 
 # 🛠️ Built With
 Streamlit
@@ -62,7 +62,7 @@ Copy
 Edit
 ask-your-pdf/
 │
-├── app1.py                # Main Streamlit app
+├── app.py                # Main Streamlit app
 ├── requirements.txt       # Python dependencies
 ├── .env                   # Contains your GROQ API key (excluded from Git)
 ├── .gitignore             # Prevents committing sensitive/unnecessary files
