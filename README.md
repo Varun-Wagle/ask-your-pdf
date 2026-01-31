@@ -1,4 +1,4 @@
-# 📄 Ask Your PDF
+# 📄 AI PDF Assistant (Ask Your PDF)
 ## AI-Powered PDF Question Answering using GROQ LLM
 
 ---
