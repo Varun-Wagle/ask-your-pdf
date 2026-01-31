@@ -132,7 +132,7 @@ Feel free to open an issue or submit a pull request.
 ## ✨ Author
 
 Varun Wagle<br>
-GitHub: https://github.com/Varun-Wagle
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Varun-Wagle)
 
 ---
 
