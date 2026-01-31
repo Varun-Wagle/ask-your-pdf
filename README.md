@@ -40,8 +40,8 @@ Ask Your PDF is a lightweight, production-ready Streamlit application that allow
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Varun-Wagle/ask-your-pdf.git
-cd ask-your-pdf
+git clone https://github.com/Varun-Wagle/ai-pdf-assistant.git
+cd ai-pdf-assistant
 ```
 
 ### 2️⃣ Create & Activate Virtual Environment (Recommended)
